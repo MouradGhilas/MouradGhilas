@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Web technologies **React, Node, Python, Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [Here in github](Here in github)
+- 👨‍💻 All of my projects are available in github
 
 - 📫 How to reach me **Ghilas.messaoudi.job@gmail.com**
 
